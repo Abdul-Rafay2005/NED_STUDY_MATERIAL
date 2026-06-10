@@ -113,9 +113,3 @@ Once your pull request is reviewed and approved, it will be merged into the main
 - Always sync your fork with upstream before creating a new branch
 - Write clear commit messages and organize materials properly in the correct folder
 
-### Contributors
-Huge thank you to all the amazing contributors who make this repository better. Keep contributing and sharing knowledge! 🙌
-
-<a href="https://github.com/Ubaid01/NED-University-CSIT-Department-Study-Materials/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Ubaid01/NED-University-CSIT-Department-Study-Materials" height="45px" width="50px"/>
-</a>
